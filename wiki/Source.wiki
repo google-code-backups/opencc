@@ -1,0 +1,22 @@
+#summary Source
+#labels Phase-Develop
+
+= Stable source =
+
+Released sources are available on the dowloads page. [http://code.google.com/p/open-chinese-convert/downloads/list]
+
+= Source repository =
+
+== Library ==
+
+You can check out the latest source code of via [http://github.com/BYVoid/OpenCC github].
+{{{
+ $ git clone git://github.com/BYVoid/OpenCC.git OpenCC
+}}}
+or [http://github.com/BYVoid/OpenCC/archives/master download here].
+
+== PHP Support ==
+
+{{{
+ $ git clone git://github.com/BYVoid/opencc-php.git opencc-php
+}}}
