@@ -1,0 +1,71 @@
+#summary Installation.
+#labels Featured,Phase-Manual
+
+= OpenCC =
+
+== 編譯源碼包 ==
+
+  # 到 http://code.google.com/p/opencc/downloads/list 下載最新版本
+  # 解壓縮並進入目錄
+
+{{{
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Release -D ENABLE_GETTEXT:BOOL=ON ..
+make
+sudo make install
+}}}
+
+== Ubuntu ==
+
+如果你正在使用Ubuntu 10.10 (Maverick) 以上的版本，opencc已經被加入到了[https://launchpad.net/ubuntu/+source/opencc 官方源]中，使用
+
+{{{
+sudo apt-get install opencc
+}}}
+
+如果你更願意體驗最新的版本，請使用ppa：
+
+{{{
+sudo add-apt-repository ppa:byvoid-kcp/ppa
+sudo apt-get update
+sudo apt-get install opencc
+}}}
+
+== Debian ==
+
+你可以在 http://packages.debian.org/opencc 找到最新的打包。
+
+== Fedora ==
+
+opencc已經進入Fedora 14以上版本官方源中。
+
+{{{
+yum install opencc
+}}}
+
+
+== archlinux ==
+
+{{{
+yaourt -S opencc
+}}}
+
+http://aur.archlinux.org/packages.php?ID=40433
+
+== gentoo ==
+
+http://packages.gentoo.org/package/app-i18n/opencc
+
+= opencc-php =
+
+  # 到 http://code.google.com/p/opencc/downloads/list 下載最新版本
+  # 解壓縮並進入目錄
+  # 安裝php5-dev工具
+
+{{{
+phpize
+./configure
+make
+sudo make install
+}}}
