@@ -1,8 +1,6 @@
 #summary Changelog and Release Note.
 #labels Featured,Phase-Develop
 
-#sidebar SideNavi
-
 == Ver 0.2.0 ==
 
 2010年12月23日
