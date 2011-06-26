@@ -69,7 +69,7 @@ sudo make install
 {{{
 mkdir build
 cd build
-cmake .. -G "MSYS Makefiles" -DCMAKE_INSTALL_PREFIX="" -DCMAKE_BUILD_TYPE=Debug -DENABLE_GETTEXT:BOOL=OFF
+cmake .. -G "MSYS Makefiles" -DCMAKE_INSTALL_PREFIX="" -DCMAKE_BUILD_TYPE=Release -DENABLE_GETTEXT:BOOL=OFF
 make
 }}}
 
