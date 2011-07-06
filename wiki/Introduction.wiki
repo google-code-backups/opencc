@@ -16,6 +16,11 @@ Open Chinese Convert（OpenCC）是一個中文簡繁轉換開源項目，提供
 
 = 進展 =
 
+  * 2011年7月，圖形版本發佈。
   * OpenCC創立於2009年，初期一直在蒐集整理詞庫，2010年6月正式對外發佈。
   * 已經用於ibus-pinyin、fcitx的繁體模式輸入。
   * 將要用於ibus-cloud-pinyin和sunpinyin。 
+
+= 截圖 =
+
+[http://opencc.googlecode.com/files/screenshot-gui.png]
