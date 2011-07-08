@@ -15,6 +15,10 @@ You can check out the latest source code of via [http://github.com/BYVoid/OpenCC
 }}}
 or [http://github.com/BYVoid/OpenCC/archives/master download here].
 
+== GUI ==
+
+[https://github.com/BYVoid/opencc-gui]
+
 == PHP Support ==
 
 {{{
