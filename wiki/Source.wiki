@@ -3,7 +3,7 @@
 
 = Stable source =
 
-Released sources are available on the dowloads page. [http://code.google.com/p/open-chinese-convert/downloads/list]
+Released sources are available on the dowloads page. [http://code.google.com/p/opencc/downloads/list]
 
 = Source repository =
 
