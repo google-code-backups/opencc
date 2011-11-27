@@ -7,6 +7,14 @@
 
 解壓後即可在命令行下使用，請確保輸入文件的編碼為UTF-8。
 
+== Mac OS X ==
+
+安裝[http://mxcl.github.com/homebrew/ homebrew]，並在終端下執行：
+
+{{{
+brew install opencc
+}}}
+
 == Ubuntu ==
 
 如果你正在使用Ubuntu 10.10 (Maverick) 以上的版本，opencc已經被加入到了[https://launchpad.net/ubuntu/+source/opencc 官方源]中，使用
@@ -49,7 +57,7 @@ http://packages.gentoo.org/package/app-i18n/opencc
 
 == 編譯源碼包 ==
 
-=== Linux ===
+=== POSIX ===
 
   # 到 http://code.google.com/p/opencc/downloads/list 下載最新版本
   # 解壓縮並進入目錄
@@ -62,9 +70,11 @@ make
 sudo make install
 }}}
 
+* 如果不需要本地化，請設置 ENABLE_GETTEXT:BOOL=OFF
+
 === Windows ===
 
-* 您需要安裝MSYS平臺。
+* 您需要安裝MSYS平臺和cmake，然後在命令行下執行下列命令
 
 {{{
 mkdir build
@@ -85,3 +95,9 @@ phpize
 make
 sudo make install
 }}}
+
+= ropencc =
+
+ropencc是opencc的ruby語言綁定，具體配置和使用方法請見
+
+[https://github.com/Psli/ropencc]
