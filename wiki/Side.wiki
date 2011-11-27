@@ -3,7 +3,6 @@
  * [Readme 詳細介紹]
  * [Configuration 配置]
  * [FAQ 問答]
- * [Feedback 反饋]
  * [Source 源碼]
  * [Changelog 更新記錄]
    * [Todo 計劃]
