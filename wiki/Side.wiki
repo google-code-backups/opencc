@@ -3,6 +3,7 @@
  * [Readme 詳細介紹]
  * [Configuration 配置]
  * [FAQ 問答]
+ * [Develop 開發]
  * [Source 源碼]
  * [Changelog 更新記錄]
    * [Todo 計劃]
