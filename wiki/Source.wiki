@@ -11,11 +11,17 @@ Released sources are available on the dowloads page. [http://code.google.com/p/o
 
 You can check out the latest source code of via [http://github.com/BYVoid/OpenCC github].
 {{{
- $ git clone git://github.com/BYVoid/OpenCC.git OpenCC
+ $ git clone git://github.com/BYVoid/OpenCC.git
 }}}
 or [http://github.com/BYVoid/OpenCC/archives/master download here].
 
 == GUI ==
+
+A QT-based graphic user interface of OpenCC.
+
+{{{
+ $ git clone https://github.com/BYVoid/opencc-gui
+}}}
 
 [https://github.com/BYVoid/opencc-gui]
 
