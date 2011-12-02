@@ -25,4 +25,8 @@ Open Chinese Convert（OpenCC）是一個中文簡繁轉換開源項目，提供
 
 = 截圖 =
 
+== Mac OS X ==
+[http://opencc.googlecode.com/files/screenshot-gui-mac.png]
+
+== Windows ==
 [http://opencc.googlecode.com/files/screenshot-gui.png]
