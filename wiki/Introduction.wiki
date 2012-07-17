@@ -23,6 +23,14 @@ Open Chinese Convert（OpenCC）是一個中文簡繁轉換開源項目，提供
   * 已經用於ibus-pinyin、fcitx的繁體模式輸入。
   * 將要用於ibus-cloud-pinyin和sunpinyin。 
 
+= 相關文章 =
+
+  * [http://www.byvoid.com/blog/opencc-support-regional-phrases-conversion/ OpenCC支持地區用詞轉換了]
+  * [http://www.byvoid.com/blog/opencc-web-interface-release/ OpenCC網頁版發佈]
+  * [http://www.byvoid.com/blog/chinese-character-definition/ 混淆的概念——“繁體字”、“正體字”、“簡體字”、“簡化字”之辨析]
+  * [http://www.byvoid.com/blog/recommend-rime/ 推薦Rime輸入法]
+  * [http://www.byvoid.com/blog/encoding-autodetector-uchardet/ 編碼自動識別工具 uchardet]
+
 = 截圖 =
 
 == Mac OS X ==
