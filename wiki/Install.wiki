@@ -83,6 +83,14 @@ cmake .. -G "MSYS Makefiles" -DCMAKE_INSTALL_PREFIX="" -DCMAKE_BUILD_TYPE=Releas
 make
 }}}
 
+= Node.js =
+
+安裝前，請確保你已經安裝了Node.js 0.8.20以上的版本，並且node-gyp的版本在0.8.4以上。在命令行下運行即可安裝：
+
+{{{
+npm install opencc
+}}}
+
 = opencc-php =
 
   # 到 http://code.google.com/p/opencc/downloads/list 下載最新版本
