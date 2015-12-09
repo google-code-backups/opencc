@@ -1,0 +1,1 @@
+See http://byvoid.github.io/OpenCC/

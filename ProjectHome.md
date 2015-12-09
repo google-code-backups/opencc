@@ -1,0 +1,1 @@
+請見 https://github.com/BYVoid/OpenCC
